@@ -1,0 +1,7 @@
+{
+  "name": "CellLocate-particle-photon",
+  "author": "EAC PDC <eacpdc@eacpds.com>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "Clone of https://github.com/asterix555/CellLocate"
+}
